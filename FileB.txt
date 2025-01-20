@@ -1,2 +1,3 @@
 This is File B
 Adding this second line
+Making changes to FileB
